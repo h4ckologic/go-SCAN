@@ -17,7 +17,7 @@
 Usage : ./goscan.sh -d domain
 
 ### Workflow
-![Workflow](https://i.ibb.co/MBsPm3W/52224149-E40-A-4-E56-9750-42590-C6-AFBAC.png)
+![Workflow](https://i.ibb.co/2Y79Qk9/Screen-Shot-2021-02-14-at-2-25-20-PM.png)
 
 ### Directory Structure of all the information gathered by the tool.
 Date wise recon folder
