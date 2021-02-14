@@ -107,7 +107,7 @@ report(){
   echo "<div style=\"font-family: 'Mina', serif;\"><h2>Screeshot</h2></div>" >> ./$domain/$foldername/reports/$line2.html
   echo "<pre>" >> ./$domain/$foldername/reports/$line2.html
   echo "Port 80                              Port 443" >> ./$domain/$foldername/reports/$line2.html
-  echo "<img/src=\"../screenshots/http-$line-80.png\" style=\"max-width: 500px;\"> <img/src=\"../screenshots/https-$line-443.png\" style=\"max-width: 500px;\"> <br>" >> ./$domain/$foldername/reports/$line2.html
+  echo "<img/src=\"../screenshots/http-$line2-80.png\" style=\"max-width: 500px;\"> <img/src=\"../screenshots/https-$line2-443.png\" style=\"max-width: 500px;\"> <br>" >> ./$domain/$foldername/reports/$line2.html
   echo "</pre>" >> ./$domain/$foldername/reports/$line2.html
 
   echo "<div style=\"font-family: 'Mina', serif;\"><h2>Dig Info</h2></div>" >> ./$domain/$foldername/reports/$line2.html
